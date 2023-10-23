@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Wooyoung%20Jang&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FCB6D0&height=300&section=header&text=Wooyoung%20Jang&fontSize=80)
 
 <h1 align="left">Hi 👋, I'm wooyoung Jang</h1>
 <h3 align="left">Planner & web developer</h3>
