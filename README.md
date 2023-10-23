@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>Teck Stack</h2>
-<img src="https://img.shields.io/badge/html5-#E34F26?style=flat&logo=html5&logoColor=white"/></a>&nbsp
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <!--
