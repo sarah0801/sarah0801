@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&text=WooYoung%20Jang&fontSize=60&fontAlignY=40&fontAlign=70&height=250)
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=300&section=header&text=Wooyoung%20Jang&fontSize=80&fontColor=d6ace6)-->
 
-<h1 align="left">Hi 👋, I'm wooyoung Jang</h1>
+<h1 align="left">Hi 👋, I'm WooYoung Jang</h1>
 <h3 align="left">📌 Main) Planner (Product Manager) <br>
 ➕ Sub) web developer</h3>
 
