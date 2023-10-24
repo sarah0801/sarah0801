@@ -3,7 +3,7 @@
 
 <h1 align="left">Hi 👋, I'm WooYoung Jang</h1>
 <h3 align="left">📌 Main) Planner (Product Manager) <br>
-➕ Sub) web developer</h3>
+➕ Sub) Web Developer</h3>
 
 <p align="left">
 </p>
